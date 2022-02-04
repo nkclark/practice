@@ -1,2 +1,2 @@
 # practice
-This was created for practicd purposes.
+This was created for practice purposes.
